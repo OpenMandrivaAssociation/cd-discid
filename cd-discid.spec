@@ -25,3 +25,10 @@ can be used for any purpose requiring CDDB data.
 %doc changelog COPYING README
 %{_bindir}/cd-discid
 %{_mandir}/man1/cd-discid.1*
+
+
+%changelog
+* Sun Nov 20 2011 Alexander Khrukin <akhrukin@mandriva.org> 1.3-1
++ Revision: 732041
+- imported package cd-discid
+
