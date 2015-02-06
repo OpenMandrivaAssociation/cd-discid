@@ -1,6 +1,6 @@
 Name:		cd-discid
 Version:	1.3
-Release:	1
+Release:	2
 Summary:	Utility to get CDDB discid information
 Group:		File tools
 License:	GPLv2+
