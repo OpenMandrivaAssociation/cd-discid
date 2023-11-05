@@ -5,7 +5,7 @@ Summary:	Utility to get CDDB discid information
 Group:		File tools
 License:	GPLv2+
 URL:		https://github.com/taem/cd-discid
-Sources:  https://github.com/taem/cd-discid/archive/refs/tags/%{version}/%{name}-%{version}.tar.gz
+Source0:  https://github.com/taem/cd-discid/archive/refs/tags/%{version}/%{name}-%{version}.tar.gz
 #Source0:	http://linukz.org/download/%{name}-%{version}.tar.gz
 
 %description
