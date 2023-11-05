@@ -1,0 +1,12 @@
+diff -uraN cd-discid-1.4/Makefile omv-cd-discid-1.4/Makefile
+--- cd-discid-1.4/Makefile	2013-05-14 11:02:00.000000000 +0200
++++ omv-cd-discid-1.4/Makefile	2023-11-05 15:46:26.888731287 +0100
+@@ -13,7 +13,7 @@
+ SRCS = cd-discid.c
+ OBJS = $(SRCS:.c=.o)
+ 
+-PREFIX ?= /usr/local
++PREFIX ?= /usr
+ BINDIR = ${PREFIX}/bin
+ MANDIR = ${PREFIX}/share/man/man1
+ 
