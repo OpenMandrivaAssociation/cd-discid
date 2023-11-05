@@ -24,8 +24,8 @@ can be used for any purpose requiring CDDB data.
 
 %files
 %doc changelog COPYING README
-%{_bindir}/cd-discid
-%{_mandir}/man1/cd-discid.1*
+#{_bindir}/cd-discid
+#{_mandir}/man1/cd-discid.1*
 
 
 %changelog
