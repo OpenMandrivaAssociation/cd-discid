@@ -9,10 +9,11 @@ License:	GPLv2+
 URL:		https://github.com/taem/cd-discid
 Source0:  https://github.com/taem/cd-discid/archive/refs/tags/%{version}/%{name}-%{version}.tar.gz
 #Source0:	http://linukz.org/download/%{name}-%{version}.tar.gz
+Patch0:  fix-install-dir-openmandriva.patch
 
 %description
 cd-discid is a backend utility to get CDDB discid information for a
-CD-ROM disc.  It was originally designed for cdgrab (now abcde), but
+CD-ROM disc. It was originally designed for cdgrab (now abcde), but
 can be used for any purpose requiring CDDB data.
 
 %prep
